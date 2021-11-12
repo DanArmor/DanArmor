@@ -4,7 +4,9 @@ I'm from Russia
 Things i'm interested in:
 
 <p>
-  <img src="./assets/c.png" alt="C" height="30">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="./assets/c.png" alt="C" height="30">
+  </a>
 </p>
 
 How to reach me:  
