@@ -4,7 +4,7 @@ I'm from Russia
 Things i'm interested in:
 
 <p>
-  <img src="./assets/c.jpg" alt="C" height="30">
+  <img src="./assets/c.png" alt="C" height="30">
 </p>
 
 How to reach me:  
