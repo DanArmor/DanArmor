@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm DanArmor   
+I'm from Russia  
 
-<!--
-**DanArmor/DanArmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Things i'm interested in:
 
-Here are some ideas to get you started:
+<p>
+  <img src="./Assets/C.svg" alt="C" height="30">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to reach me:  
+<p>
+  <a href="mailto:danilamorozov@vk.com?subject=subject text">
+    <img src="./Assets/Email.png" alt="Email" height="30">
+  </a>
+</p>
