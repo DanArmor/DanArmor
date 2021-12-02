@@ -10,6 +10,12 @@ Things i'm interested in:
   </a>
 </p>
 
+<p>
+  <a href="https://go.dev/">
+    <img src="./assets/go.png" alt="Go" height="30">
+  </a>
+</p>
+
 How to reach me:  
 <p>
   <a href="mailto:danilamorozov@vk.com?subject=subject text">
