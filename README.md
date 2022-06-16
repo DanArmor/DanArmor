@@ -1,20 +1,15 @@
 Hi, I'm Danila
 
 I'm from Russia  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanArmor)](https://github.com/anuraghazra/github-readme-stats)
 
 Things i'm interested in:
 
-<p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-    <img src="./assets/c.png" alt="C" height="30">
-  </a>
-</p>
-
-<p>
-  <a href="https://go.dev/">
-    <img src="./assets/go.png" alt="Go" height="30">
-  </a>
-</p>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  
+    
 
 How to reach me:  
 <p>
