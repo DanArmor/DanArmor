@@ -1,6 +1,3 @@
-Hi, I'm Danila
-
-I'm from Russia  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanArmor)](https://github.com/anuraghazra/github-readme-stats)
 
 Things i'm interested in:
