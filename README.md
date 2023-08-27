@@ -1,6 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DanArmor&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanArmor&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanArmor&layout=donut&theme=transparent&hide=pascal)](https://github.com/anuraghazra/github-readme-stats)
 
 Things i'm interested in:
 <a href="https://en.wikibooks.org/wiki/C_Programming">
